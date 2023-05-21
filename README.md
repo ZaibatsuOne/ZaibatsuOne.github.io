@@ -15,4 +15,4 @@
 </ul><h2>Screenshots</h2>
 <hr><p><img src="https://i.ibb.co/dMVYqNt/image.png" alt=""></p><h2>Project Status</h2>
 <hr><p>In Progress</p>
-p>Link: <a href="https://zaibatsuone.github.io/">https://zaibatsuone.github.io/</a></p>
+<p>Link: <a href="https://zaibatsuone.github.io/">https://zaibatsuone.github.io/</a></p>
