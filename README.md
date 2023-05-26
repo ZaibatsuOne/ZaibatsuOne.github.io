@@ -9,6 +9,8 @@
 </ul><ul>
 <li>SCSS</li>
 </ul><ul>
+<li>Firebase</li>
+</ul><ul>
 <li>Axios</li>
 </ul><ul>
 <li>Tailwind</li>
